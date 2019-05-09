@@ -1,0 +1,73 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#logo{
+    padding-left: 80px;
+    width: 20px;
+    float: left;
+}
+#navbar{
+    float: right;
+   
+}
+#navbar a{
+color: black;
+font-family: 'Source Sans Pro', sans-serif;
+margin: 2em;
+font-size: 1em;
+font-weight: bold;
+
+}
+#logo img{
+    float: left;
+    height: 90px;
+    width: 100px;
+
+}
+#container img{
+    margin-top: 100px;
+}
+#container h2{
+
+    margin-right: 500px;
+    float: right;
+    margin-top: -250px;
+    text-align: center;
+
+}
+#container p{
+    margint-top:20em;
+    float: right;
+    margin-right: -310px;
+}
+.stars img{
+    float: left;
+    height: 30px;
+    margin-left: 400px;
+    margin-top: -150px;
+}
+.price{
+    float: left;
+    margin-right:300px; 
+    margin-top:-440px;
+}
+
+#btn button{
+    background-color: #f2849f;
+    border-radius: 2px;
+    color: white;
+    padding: 8px 60px ;
+    float: left;
+    margin-top: -200px;
+    margin-right: 4em;
+    border: 2px solid #f2849f;
+    font-size: 15px;
+    margin-left: 20em;
+}
+
+
+#btn button:hover{
+    background-color:  #ed4b74;
+}
+
